@@ -20,8 +20,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+
+
 import global from "./company/global.png";
 import veris from "./company/veris.png";
 
@@ -50,8 +50,6 @@ export {
   redux,
   tailwind,
   threejs,
-  meta,
-  shopify,
   global,
   veris,
   carrent,
