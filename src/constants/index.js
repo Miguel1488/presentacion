@@ -5,6 +5,8 @@ import {
   Bootstrap,
   web,
   reactjs,
+  javaScript,
+  html,
   redux,
   tailwind,
   nodejs,
@@ -14,7 +16,8 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  css,
+
 } from "../assets";
 
 export const navLinks = [
@@ -57,6 +60,14 @@ const technologies = [
     name: "Read",
     icon: reactjs,
   },
+  {
+    name: "JAVASCRIPT",
+    icon: javaScript,
+  },
+  {
+    name: "CSS",
+    icon: css,
+  },
 
   {
     name: "Redux Toolkit",
@@ -71,8 +82,8 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "HTML",
+    icon: html,
   },
   {
     name: "git",

@@ -12,11 +12,12 @@ import close from "./close.svg";
 import Bootstrap from "./tech/Bootstrap.png";
 import git from "./tech/git.png";
 import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
+import html from "./tech/html.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import threejs from "./tech/threejs.svg";
-
+import reactjs from "./tech/reactjs.png";
+import javaScript from "./tech/javaScript.png";
+import css from "./tech/css.png";
 
 
 import global from "./company/global.png";
@@ -34,6 +35,8 @@ export {
   mobile,
   web,
   github,
+  javaScript,
+  css,
   menu,
   close,
   Bootstrap,
@@ -42,7 +45,7 @@ export {
   reactjs,
   redux,
   tailwind,
-  threejs,
+  html,
   global,
   veris,
   carrent,
