@@ -4,15 +4,11 @@ import {
   creator,
   Bootstrap,
   web,
-  javascript,
-  html,
-  css,
   reactjs,
   redux,
   tailwind,
   nodejs,
   git,
-  ep,
   global,
   veris,
   carrent,
@@ -58,21 +54,10 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "React JS",
+    name: "Read",
     icon: reactjs,
   },
+
   {
     name: "Redux Toolkit",
     icon: redux,
@@ -92,10 +77,6 @@ const technologies = [
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "ep",
-    icon: ep,
   },
   {
     name: "Bootstrap",
