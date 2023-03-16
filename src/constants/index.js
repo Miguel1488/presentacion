@@ -5,7 +5,7 @@ import {
   Bootstrap,
   web,
   reactjs,
-  javaScript,
+  javascript,
   html,
   redux,
   tailwind,
@@ -62,7 +62,7 @@ const technologies = [
   },
   {
     name: "JAVASCRIPT",
-    icon: javaScript,
+    icon: javascript,
   },
   {
     name: "CSS",

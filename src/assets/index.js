@@ -16,7 +16,7 @@ import html from "./tech/html.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import reactjs from "./tech/reactjs.png";
-import javaScript from "./tech/javaScript.png";
+import javascript from "./tech/javascript.png";
 import css from "./tech/css.png";
 
 
@@ -35,7 +35,7 @@ export {
   mobile,
   web,
   github,
-  javaScript,
+  javascript,
   css,
   menu,
   close,
