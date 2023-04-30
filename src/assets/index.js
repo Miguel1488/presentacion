@@ -17,15 +17,18 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import reactjs from "./tech/reactjs.png";
 import javascript from "./tech/javascript.png";
+import firebase from "./tech/Firebase_Logo.png";
 import css from "./tech/css.png";
 
-
+import nocountry from "./company/nocountry.jpeg";
 import global from "./company/global.png";
 import veris from "./company/veris.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import bypass from "./bypass.png"
 
 export {
   logo2mike,
@@ -44,11 +47,14 @@ export {
   nodejs,
   reactjs,
   redux,
+  firebase,
   tailwind,
   html,
   global,
+  nocountry,
   veris,
   carrent,
   jobit,
   tripguide,
+  bypass,
 };

@@ -6,16 +6,19 @@ import {
   web,
   reactjs,
   javascript,
+  firebase,
   html,
   redux,
   tailwind,
   nodejs,
   git,
   global,
+  nocountry,
   veris,
   carrent,
   jobit,
   tripguide,
+  bypass,
   css,
 
 } from "../assets";
@@ -93,9 +96,25 @@ const technologies = [
     name: "Bootstrap",
     icon: Bootstrap,
   },
+  {
+    name: "firebase",
+    icon: firebase,
+  },
 ];
 
 const experiences = [
+  {
+    title: "WEB DEVELOPMENT",
+    company_name: "NO-COUNTRY",
+    icon: nocountry,
+    iconBg: "#383E56",
+    points: [
+      "For four weeks, I was part of a multidisciplinary team that developed the Bypass events platform in the No Country emulation. My responsibility in the project was to design the user interface and create functions to improve the user experience. I worked on both the front-end and back-end of the project using cutting-edge technologies like React and Firebase.",
+      "As a member of the team, I took on different roles, from developer to technical advisor, and actively participated in daily decision-making. It was an exciting and challenging experience collaborating with experts in different areas towards a common goal. I learned valuable skills about teamwork and how different skills can come together to create something amazing.",
+      "I am confident that this experience in developing the Bypass platform is a great addition to my professional profile, and I can significantly contribute to similar future projects.",
+    ],
+  },
+
   {
     title: "Digital marketing",
     company_name: "Global Asesorias",
@@ -209,6 +228,40 @@ const projects = [
     image: tripguide,
     source_code_link: "https://merry-kataifi-99898a.netlify.app/",
   },
+
+
+  {
+    name: "Bypass",
+    description:
+      "Bypass is an event platform developed for online sales. It allows organizers to sell, modify and review their events, scan QR codes, and offers a user-friendly experience for purchasing tickets for social events.",
+     
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux toolkit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "red-text-gradient",
+      },
+    ],
+    image: bypass,
+    source_code_link: "https://bypass-dusky.vercel.app/",
+  },
+
+
+
+
+
+
 ];
 
 export { services, technologies, experiences, testimonials, projects };
