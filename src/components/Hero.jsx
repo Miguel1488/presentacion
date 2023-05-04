@@ -25,7 +25,7 @@ const Hero = () => {
           </p>
           <br />
           <div className="flex-auto flex space-x-4">
-            <a target="_blank" href="https://drive.google.com/file/d/15GUnWottdqB9ryPfdHPWTQnyPTjZLRrg/view?usp=sharing"> <button className="h-10 px-7 font-semibold rounded-md bg-[#9FFF24] text-[#080d01]"> CURRICULUM VITAE</button></a>
+            <a target="_blank" href="https://drive.google.com/file/d/1LklbIU_51-eAd54ugCtblOHgoAGFhiUN/view?usp=share_link"> <button className="h-10 px-7 font-semibold rounded-md bg-[#9FFF24] text-[#080d01]"> CURRICULUM VITAE</button></a>
           </div>
         </div>
       </div>
